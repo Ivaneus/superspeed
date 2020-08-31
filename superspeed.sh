@@ -137,6 +137,7 @@ runtest() {
 
 		 speed_test '3633' '上海' '电信'
 		 speed_test '21005' '上海' '联通'
+		 speed_test '24447' '上海５Ｇ' '联通'
 		 speed_test '6611' '广东广州' '移动'
 
 		end=$(date +%s)  
